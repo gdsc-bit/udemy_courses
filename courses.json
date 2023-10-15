@@ -58,5 +58,15 @@
     "difficulty" : "beginner",
     "module_number" : 21,
     "certification" : "paid"
+  }, 
+  {
+    "id" :  7,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Basic Python",
+    "link" : "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+    "difficulty" : "beginner",
+    "module_number" : 21,
+    "certification" : "paid"
   }
 ]
