@@ -88,5 +88,15 @@
     "difficulty" : "beginner",
     "module_number" : 14,
     "certification" : "paid"
+  },
+  {
+    "id" :  10,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Javascript",
+    "link" : "https://www.udemy.com/course/the-complete-javascript-course/",
+    "difficulty" : "beginner",
+    "module_number" : 30,
+    "certification" : "paid"
   }
 ]
