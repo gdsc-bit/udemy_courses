@@ -48,5 +48,15 @@
     "difficulty" : "beginner",
     "module_number" : 6,
     "certification" : "paid"
+  },
+  {
+    "id" :  6,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Data science",
+    "link" : "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 21,
+    "certification" : "paid"
   }
 ]
