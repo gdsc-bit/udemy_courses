@@ -227,6 +227,16 @@
     "link" : "ttps://www.udemy.com/course/the-complete-web-development-bootcamp/",
     "difficulty" : "intermediATE",
     "module_number" : 110,
+  },
+  {
+    "id" :  24,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Phython for beginners",
+    "link" : "https://www.udemy.com/course/python-core-and-advanced/",
+    "difficulty" : "beginner",
+    "module_number" : 330,
+    "certification" : "paid"
   }
 
 ]
