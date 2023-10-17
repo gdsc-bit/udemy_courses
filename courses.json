@@ -49,6 +49,16 @@
     "module_number" : 6,
     "certification" : "paid"
   },
+   {
+    "id" :  9,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "machine learning",
+    "link" : "https://www.udemy.com/course/machinelearning/",
+    "difficulty" : "beginner",
+    "module_number" : 087,
+    "certification" : "free"
+  },
   {
     "id" :  6,
     "platform" : "Udemy",
@@ -207,16 +217,6 @@
     "link" : "https://www.udemy.com/course/python-the-complete-python-developer-course/",
     "difficulty" : "medium",
     "module_number" : 557,
-    "certification" : "paid"
-  },
-  {
-  "id" :  22,
-    "platform" : "Udemy",
-    "free_course" : "no",
-    "course_name" : "Python for Beginners: Easy Python for Beginners Course",
-    "link" : "https://www.udemy.com/course/python-in-a-weekend/",
-    "difficulty" : "beginner",
-    "module_number" : 9,
     "certification" : "paid"
   }
 
