@@ -139,4 +139,14 @@
     "module_number" : 11,
     "certification" : "paid"
   }
+  {
+    "id" :  15,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Machine Learning A-Z",
+    "link" : "https://www.udemy.com/course/machinelearning/?gclid=Cj0KCQjw4bipBhCyARIsAFsieCyb54sTNWvWV1TNTJlRPp_O9BvlWoYGe6nEZsMt29RxmmDdvnOxkW0aAq3nEALw_wcB",
+    "difficulty" : "beginner",
+    "module_number" : ,
+    "certification" : "paid"
+  }
 ]
