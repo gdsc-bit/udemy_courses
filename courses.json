@@ -140,7 +140,17 @@
     "certification" : "paid"
   },
   {
-     "id" :  15,
+    "id" :  15,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Java Programming Masterclass updated to Java 17",
+    "link" : "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+    "difficulty" : "beginner",
+    "module_number" : 46,
+    "certification" : "paid"
+  }
+  {
+     "id" :  16,
     "platform" : "Udemy",
     "free_course" : "no",
     "course_name" : "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
