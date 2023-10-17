@@ -231,12 +231,10 @@
   {
     "id" :  24,
     "platform" : "Udemy",
-    "free_course" : "no",
-    "course_name" : "Phython for beginners",
-    "link" : "https://www.udemy.com/course/python-core-and-advanced/",
-    "difficulty" : "beginner",
-    "module_number" : 330,
-    "certification" : "paid"
+    "free_course" : "paid",
+    "course_name" : "Mastering C++: From Basics to Advanced Programming",
+    "link" : "https://www.udemy.com/course/mastering-cplusplus-prateek-narang-hindi/",
+    "difficulty" : "Medium",
+    "module_number" : 13,
   }
-
 ]
