@@ -163,6 +163,16 @@
      "id" :  17,
     "platform" : "Udemy",
     "free_course" : "no",
+    "course_name" : "The Complete Python Bootcamp From Zero to Hero in Python",
+    "link" : "https://www.udemy.com/course/complete-python-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 22,
+    "certification" : "paid"
+  },
+  {
+     "id" :  18,
+    "platform" : "Udemy",
+    "free_course" : "no",
     "course_name" : "Learn Perl 5 By Doing It",
     "link" : "https://www.udemy.com/course/perltutorial/",
     "difficulty" : "beginner",
