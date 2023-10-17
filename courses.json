@@ -218,6 +218,16 @@
     "difficulty" : "beginner",
     "module_number" : 9,
     "certification" : "paid"
+  },
+  {
+    "id" :  23,
+    "platform" : "National Digital Library Of India",
+    "free_course" : "yes",
+    "course_name" : "Introduction to Electrical Engineering",
+    "link" : "http://ndl.iitkgp.ac.in/document/YkxlRXFvZXJrTDBkVzVVZi9ESjl6eXBiYktYSGlVT3dwMU5td1o1alFMOU1FT1RIWVVkZ2hvSEtYd0lkdWhydg",
+    "difficulty" : "medium",
+    "module_number" : 36,
+    "certification" : "free"
   }
 
 ]
