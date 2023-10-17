@@ -138,5 +138,15 @@
     "difficulty" : "beginner",
     "module_number" : 11,
     "certification" : "paid"
+  },
+  {
+    "id" :  15,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Service Now master class",
+    "link" : "https://www.udemy.com/course/servicenow-itsm-masterclass/",
+    "difficulty" : "beginner",
+    "module_number" : 11,
+    "certification" : "paid"
   }
 ]
