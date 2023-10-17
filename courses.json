@@ -138,5 +138,15 @@
     "difficulty" : "beginner",
     "module_number" : 11,
     "certification" : "paid"
-  }
+  },
+  {
+  "id" :  15,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Python for Beginners: Easy Python for Beginners Course",
+    "link" : "https://www.udemy.com/course/python-in-a-weekend/",
+    "difficulty" : "beginner",
+    "module_number" : 9,
+    "certification" : "paid"
+  
 ]
