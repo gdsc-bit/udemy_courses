@@ -237,9 +237,19 @@
     "difficulty" : "beginner",
     "module_number" : 330,
     "certification" : "paid"
-  }
-   {
+  },
+  {
     "id" :  25,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Data Structures & Algorithms Essentials using C++ ",
+    "link" : "https://www.udemy.com/course/cpp-data-structures-algorithms-prateek-narang/",
+    "difficulty" : "Hard",
+    "module_number" : 24,
+    "certification" : "paid"
+  },
+   {
+    "id" :  26,
     "platform" : "Udemy",
     "free_course" : "no",
     "course_name" : "Competitive Programming Essentials, Master Algorithms",
