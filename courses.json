@@ -139,8 +139,127 @@
     "module_number" : 11,
     "certification" : "paid"
   },
-    {
+  {
     "id" :  15,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Java Programming Masterclass updated to Java 17",
+    "link" : "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+    "difficulty" : "beginner",
+    "module_number" : 46,
+    "certification" : "paid"
+  },
+  {
+     "id" :  16,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+    "link" : "https://www.udemy.com/course/100-days-of-code/",
+    "difficulty" : "beginner",
+    "module_number" : 101,
+    "certification" : "paid"
+  },
+  {
+     "id" :  17,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Complete Python Bootcamp From Zero to Hero in Python",
+    "link" : "https://www.udemy.com/course/complete-python-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 22,
+    "certification" : "paid"
+  },
+  {
+     "id" :  18,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Learn Perl 5 By Doing It",
+    "link" : "https://www.udemy.com/course/perltutorial/",
+    "difficulty" : "beginner",
+    "module_number" : 14,
+    "certification" : "paid"
+  },
+   {
+    "id" :  19,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]",
+    "link" : "https://www.udemy.com/course/machinelearning/",
+    "difficulty" : "moderate",
+    "module_number" : 6,
+    "certification" : "paid"
+  },
+  {
+    "id" :  20,
+    "platform" : "Udemy",
+    "free_course" : "yes",
+    "course_name" : "The Complete Python Bootcamp From Zero to Hero in Python",
+    "link" : "https://www.udemy.com/course/complete-python-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 11,
+    "certification" : "paid"
+  },
+  {
+    "id" :  21,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Learn Phython Programming Masterclass",
+    "link" : "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+    "difficulty" : "medium",
+    "module_number" : 557,
+    "certification" : "paid"
+  },
+  {
+  "id" :  22,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Python for Beginners: Easy Python for Beginners Course",
+    "link" : "https://www.udemy.com/course/python-in-a-weekend/",
+    "difficulty" : "beginner",
+    "module_number" : 9,
+    "certification" : "paid"
+  },
+  {
+    "id" :  23,
+    "platform" : "Udemy",
+    "free_course" : "yes",
+    "course_name" : "The Complete 2023 Web Development Bootcamp",
+    "link" : "ttps://www.udemy.com/course/the-complete-web-development-bootcamp/",
+    "difficulty" : "intermediATE",
+    "module_number" : 110,
+  },
+  {
+    "id" :  24,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Phython for beginners",
+    "link" : "https://www.udemy.com/course/python-core-and-advanced/",
+    "difficulty" : "beginner",
+    "module_number" : 330,
+    "certification" : "paid"
+  },
+  {
+    "id" :  25,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Data Structures & Algorithms Essentials using C++ ",
+    "link" : "https://www.udemy.com/course/cpp-data-structures-algorithms-prateek-narang/",
+    "difficulty" : "Hard",
+    "module_number" : 24,
+    "certification" : "paid"
+  },
+   {
+    "id" :  26,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Competitive Programming Essentials, Master Algorithms",
+    "link" : "https://www.udemy.com/course/competitive-programming-algorithms-coding-minutes/",
+    "difficulty" : "Advance",
+    "module_number" : 168,
+    "certification" : "paid"
+   },
+    {
+    "id" :  27,
     "platform" : "Udemy",
     "free_course" : "no",
     "course_name" : "100 days of code",
