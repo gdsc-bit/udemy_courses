@@ -158,5 +158,15 @@
     "difficulty" : "beginner",
     "module_number" : 101,
     "certification" : "paid"
+  },
+  {
+     "id" :  17,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Learn Perl 5 By Doing It",
+    "link" : "https://www.udemy.com/course/perltutorial/",
+    "difficulty" : "beginner",
+    "module_number" : 14,
+    "certification" : "paid"
   }
 ]
