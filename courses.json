@@ -148,7 +148,7 @@
     "difficulty" : "beginner",
     "module_number" : 46,
     "certification" : "paid"
-  }
+  },
   {
      "id" :  16,
     "platform" : "Udemy",
@@ -158,4 +158,5 @@
     "difficulty" : "beginner",
     "module_number" : 101,
     "certification" : "paid"
+  }
 ]
