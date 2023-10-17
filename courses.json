@@ -267,6 +267,16 @@
     "difficulty" : "moderate",
     "module_number" : 101,
     "certification" : "paid"
-  },
+   },
+  {
+    "id" :  28,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Unreal Engine 5: The Complete Beginner's Course",
+    "link" : "https://www.udemy.com/course/unreal-engine-5-the-complete-beginners-course/pur",
+    "difficulty" : "beginner",
+    "module_number" : 79,
+    "certification" : "paid"
+  }
   
 ]
