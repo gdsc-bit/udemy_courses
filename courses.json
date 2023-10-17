@@ -138,5 +138,15 @@
     "difficulty" : "beginner",
     "module_number" : 11,
     "certification" : "paid"
+  },
+    {
+    "id" :  15,
+    "platform" : "National Digital Library of India",
+    "free_course" : "yes",
+    "course_name" : "Machine Learning using Phython",
+    "link" : "http://ndl.iitkgp.ac.in/document/YkxlRXFvZXJrTDBkVzVVZi9ESjl6eXpRZkxRc2lhOWhlVXBhUVVWaXZlNDNyZUVldU9LdlYvd20wbkQ4MC92UQ",
+    "difficulty" : "medium",
+    "module_number" : 27,
+    "certification" : "no"
   }
 ]
