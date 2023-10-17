@@ -131,12 +131,22 @@
   },
   {
     "id" :  14,
-    "platform" : "Udemy",
+    "platform" : "Brave",
     "free_course" : "yes",
-    "course_name" : "Java Develepment",
-    "link" : "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+    "course_name" : "novel",
+    "link" : "https://novelfull.com/a-world-worth-protecting/chapter-10-invincible-combat-faculty.html/",
     "difficulty" : "beginner",
     "module_number" : 11,
+    "certification" : "free"
+     
+  },
+  {
+    "id" :  15,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Ressponsive Websites",
+    "link" : "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+    "difficulty" : "beginner",
+    "module_number" : 20,
     "certification" : "paid"
-  }
 ]
