@@ -1,7 +1,7 @@
 [
   {
     "id" :  1,
-    "platform" : "Udemy",
+    "platform" : "Udemy1",
     "free_course" : "yes",
     "course_name" : "Basic Python",
     "link" : "https://udemy.com/Basic-python",
