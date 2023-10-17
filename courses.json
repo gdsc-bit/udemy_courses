@@ -257,4 +257,15 @@
     "difficulty" : "Advance",
     "module_number" : 168,
     "certification" : "paid"
+   },
+  {
+    "id" :  27,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Complete JavaScript Course 2023: From Zero to Expert!",
+    "link" : "https://www.udemy.com/course/the-complete-javascript-course/",
+    "difficulty" : "Beginner",
+    "module_number" : 21,
+    "certification" : "paid"
+  }
 ]
