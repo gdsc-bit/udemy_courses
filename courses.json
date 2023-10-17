@@ -30,6 +30,16 @@
     "certification" : "paid"
   },
   {
+    "id" :  0,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Python Bootcamp 3",
+    "link" : "https://udemy.com/Basic-C",
+    "difficulty" : "beginner",
+    "module_number" : 23,
+    "certification" : "paid"
+  },
+  {
     "id" :  4,
     "platform" : "Udemy",
     "free_course" : "no",
