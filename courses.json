@@ -138,5 +138,15 @@
     "difficulty" : "beginner",
     "module_number" : 11,
     "certification" : "paid"
+  },
+    {
+    "id" :  15,
+    "platform" : "Udemy",
+    "free_course" : "yes",
+    "course_name" : "Learn Ethical Hacking From Scratch",
+    "link" : "https://www.udemy.com/course/learn-ethical-hacking-from-scratch/",
+    "difficulty" : "beginner",
+    "module_number" : 69,
+    "certification" : "paid"
   }
 ]
