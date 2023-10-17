@@ -140,3 +140,13 @@
     "certification" : "paid"
   }
 ]
+{
+    "id" :  15,
+    "platform" : "Udemy",
+    "free_course" : "yes",
+    "course_name" : "Java script",
+    "link" : "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+    "difficulty" : "beginner",
+    "module_number" : 320,
+    "certification" : "paid"
+}
