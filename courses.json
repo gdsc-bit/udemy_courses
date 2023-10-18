@@ -636,6 +636,16 @@
     "difficulty" : "beginner",
     "module_number" : 35,
     "certification" : "paid"
+  },
+  {
+    "id" :  65,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Crash Course Electronics and PCB Design",
+    "link" : "https://www.udemy.com/course/crash-course-electronics-and-pcb-design/",
+    "difficulty" : "beginner",
+    "module_number" : 159,
+    "certification" : "paid"
   }
 
 ]
