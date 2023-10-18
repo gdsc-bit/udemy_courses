@@ -139,4 +139,14 @@
     "module_number" : 11,
     "certification" : "paid"
   }
+   {
+    "id" :  15,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Artificial intelligence boot camp",
+    "link" : "https://www.udemy.com/course/10-code-less-days-of-artificial-intelligence/",
+    "difficulty" : "beginner",
+    "module_number" : 11,
+    "certification" : "paid"
+  }
 ]
