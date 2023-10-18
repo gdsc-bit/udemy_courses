@@ -656,6 +656,15 @@
     "difficulty" : "beginner",
     "module_number" : 46,
     "certification" : "paid"
-  }
-
+  },
+   {
+    "id" :  67,
+    "platform" : "wix",
+    "free_course" : "no",
+    "course_name" : "Statistics with R - Beginner Level",
+    "link" : "https://www.wix.com/html5en/in-hiker-builder?experiment_id=how%20to%20create%20a%20website^p^643808234583^",
+    "difficulty" : "beginner",
+    "module_number" : 49,
+    "certification" : "paid",
+   }
 ]
