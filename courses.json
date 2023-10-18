@@ -347,5 +347,15 @@
     "module_number" : 7,
     "certification" : "paid"
   },
+  {
+    "id" :  36,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Webdev",
+    "link" :"https://www.udemy.com/course/webdev-criando-aplicacoes-para-web/",
+    "difficulty" : "beginner",
+    "module_number" : 11,
+    "certification" : "paid"
+  }
   
 ]
