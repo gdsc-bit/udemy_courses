@@ -586,5 +586,15 @@
     "difficulty" : "beginner",
     "module_number" : 83,
     "certification" : "paid"
+  },
+    {
+    "id" :  60,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Statistics with R - Beginner Level",
+    "link" : "https://www.udemy.com/course/statistics-with-r-beginner-level/",
+    "difficulty" : "beginner",
+    "module_number" : 46,
+    "certification" : "paid"
   }
 ]
