@@ -522,11 +522,81 @@
     "id" :  53,
     "platform" : "Udemy",
     "free_course" : "no",
-    "course_name" : "Mastering Data Structures & Algorithms using C and C++",
-    "link" : "https://www.udemy.com/course/datastructurescncpp/",
+    "course_name" : "The Complete Python Bootcamp From Zero to Hero in Python",
+    "link" : "https://www.udemy.com/course/complete-python-bootcamp/",
     "difficulty" : "beginner",
-    "module_number" : 123,
+    "module_number" : 15,
     "certification" : "paid"
-  }
+  },
+  {
+    "id" :  54,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Complete 2023 Web Development Bootcamp",
+    "link" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 70,
+    "certification" : "paid"
+  }, 
+  {
+    "id" :  55,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Basic Python",
+    "link" : "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+    "difficulty" : "beginner",
+    "module_number" : 21,
+    "certification" : "paid"
+  },
+   {
+    "id" :  56,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+    "link" : "https://www.udemy.com/course/100-days-of-code/",
+    "difficulty" : "beginner",
+    "module_number" : 221,
+    "certification" : "paid"
+  },
+   {
+    "id" :  57,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Data Science Course: Complete Data Science Bootcamp 2023",
+    "link" : "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 93,
+    "certification" : "paid"
+  },
+   {
+    "id" :  58,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]",
+    "link" : "https://www.udemy.com/course/machinelearning/",
+    "difficulty" : "beginner",
+    "module_number" : 39,
+    "certification" : "paid"
+  },
+   {
+    "id" :  59,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Complete Machine Learning & Data Science Bootcamp 2023",
+    "link" : "https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/",
+    "difficulty" : "beginner",
+    "module_number" : 21,
+    "certification" : "paid"
+  },
+   {
+    "id" :  60,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Python for Data Science and Machine Learning Bootcamp",
+    "link" : "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 13,
+    "certification" : "paid"
+  },
 
 ]
