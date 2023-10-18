@@ -566,5 +566,25 @@
     "difficulty" : "intermediate",
     "module_number" : 20,
     "certification" : "paid"
+  },
+  {
+    "id" :  58,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Beginning of C++ Programming",
+    "link" : "https://www.udemy.com/course/beginning-c-plus-plus-programming/",
+    "difficulty" : "beginner",
+    "module_number" : 305,
+    "certification" : "paid"
+  },
+  {
+    "id" :  59,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Complete SQL bootcamp",
+    "link" : "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 83,
+    "certification" : "paid"
   }
 ]
