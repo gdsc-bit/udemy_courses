@@ -586,5 +586,15 @@
     "difficulty" : "beginner",
     "module_number" : 83,
     "certification" : "paid"
+  },
+  {
+    "id" :  60,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Java Web Services",
+    "link" : "https://www.udemy.com/course/java-web-services/",
+    "difficulty" : "beginner",
+    "module_number" : 336,
+    "certification" : "paid"
   }
 ]
