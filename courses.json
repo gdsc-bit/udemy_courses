@@ -517,6 +517,16 @@
     "difficulty" : "beginner",
     "module_number" : 101,
     "certification" : "paid"
+  },
+  {
+    "id" :  53,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Mastering Data Structures & Algorithms using C and C++",
+    "link" : "https://www.udemy.com/course/datastructurescncpp/",
+    "difficulty" : "beginner",
+    "module_number" : 123,
+    "certification" : "paid"
   }
 
 ]
