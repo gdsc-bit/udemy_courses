@@ -376,6 +376,16 @@
     "difficulty" : "beginner",
     "module_number" : 19,
     "certification" : "unpaid"
+  },
+  {
+    "id" :  39,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Complete Cyber Security Course : Hackers ",
+    "link"  : "https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/",
+    "difficulty" : "beginner",
+    "module_number" :12 ,
+    "certification" : "paid"
   }
   
 ]
