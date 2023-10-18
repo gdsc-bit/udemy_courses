@@ -596,35 +596,15 @@
     "difficulty" : "beginner",
     "module_number" : 11,
     "certification" : "paid"
-  }
+  },
   {
     "id" :  61,
-    "platform" : "brave",
+    "platform" : "wix",
     "free_course" : "yes",
-    "course_name" : "postman",
-    "link" : "https://www.postman.com/downloads/postman-agent/",
+    "course_name" : "leader in website creationt",
+    "link" : "https://www.wix.com/html5en/in-hiker-builder?experiment_id=how%20to%20create%20a%20website^p^643808234583^",
     "difficulty" : "beginner",
-    "module_number" : 8,
-    "certification" : "free"
-  }
-  {
-    "id" :  62,
-    "platform" : "Udemy",
-    "free_course" : "no",
-    "course_name" : "The Complete Python Bootcamp From Zero to Hero in Python",
-    "link" : "https://www.udemy.com/course/complete-python-bootcamp/",
-    "difficulty" : "beginner",
-    "module_number" : 15,
-    "certification" : "paid"
-  }
-  {
-    "id" :  63,
-    "platform" : "Udemy",
-    "free_course" : "no",
-    "course_name" : "Java Web Services",
-    "link" : "https://www.udemy.com/course/java-web-services/",
-    "difficulty" : "beginner",
-    "module_number" : 336,
-    "certification" : "paid"
+    "module_number" : 11,
+    "certification" : "free",
   }
 ]
