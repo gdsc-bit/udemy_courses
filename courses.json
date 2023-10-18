@@ -597,4 +597,14 @@
     "module_number" : 11,
     "certification" : "paid"
   }
+  {
+    "id" :  61,
+    "platform" : "brave",
+    "free_course" : "yes",
+    "course_name" : "postman",
+    "link" : "https://www.postman.com/downloads/postman-agent/",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "free"
+  }
 ]
