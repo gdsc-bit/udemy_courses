@@ -367,8 +367,18 @@
     "module_number" : 19.5,
     "certification" : "paid"
   },
-    {
+  {
     "id" :  38,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "amazon web services",
+    "link" : "https://www.udemy.com/course/amazon-web-services-aws-v/",
+    "difficulty" : "beginner",
+    "module_number" : 19,
+    "certification" : "unpaid"
+  },
+  {
+    "id" :  39,
     "platform" : "Udemy",
     "free_course" : "no",
     "course_name" : "The Complete Cyber Security Course : Hackers ",
@@ -376,6 +386,6 @@
     "difficulty" : "beginner",
     "module_number" :12 ,
     "certification" : "paid"
-  },
+  }
   
 ]
