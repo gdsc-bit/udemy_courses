@@ -386,6 +386,46 @@
     "difficulty" : "beginner",
     "module_number" :12 ,
     "certification" : "paid"
+  },
+  {
+    "id" :  40,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Leadership: Practical Leadership Skills",
+    "link"  : "https://www.udemy.com/course/practical-leadership/",
+    "difficulty" : "beginner",
+    "module_number" :49 ,
+    "certification" : "paid"
+  },
+   {
+    "id" :  41,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Science of Leadership",
+    "link"  : "https://www.udemy.com/course/neuromanagement/",
+    "difficulty" : "beginner",
+    "module_number" :35 ,
+    "certification" : "paid"
+  },
+   {
+    "id" :  42,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Leadership Masterclass",
+    "link"  : "https://www.udemy.com/course/leadershipmasterclass/",
+    "difficulty" : "beginner",
+    "module_number" :37 ,
+    "certification" : "paid"
+  },
+   {
+    "id" :  43,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Management Skills Training for New & Experienced Managers",
+    "link"  : "https://www.udemy.com/course/the-new-manager-managing-people-teams-processes/",
+    "difficulty" : "beginner",
+    "module_number" :90 ,
+    "certification" : "paid"
   }
   
 ]
