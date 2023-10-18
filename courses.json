@@ -498,8 +498,48 @@
     "module_number" : 81,
     "certification" : "paid"
   },
-  {
+   {
     "id" :  51,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Leadership Complete Guide - Succeed in Management",
+    "link" : "https://www.udemy.com/course/leadership-mastery/",
+    "difficulty" : "beginner",
+    "module_number" : 88,
+    "certification" : "paid"
+  },
+  {
+    "id" :  52
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Productivity and Time Management for the Overwhelmed",
+    "link" : "https://www.udemy.com/course/productivity-and-time-management/",
+    "difficulty" : "beginner",
+    "module_number" : 101,
+    "certification" : "paid"
+  },
+  {
+    "id" :  53,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Mastering Data Structures & Algorithms using C and C++",
+    "link" : "https://www.udemy.com/course/datastructurescncpp/",
+    "difficulty" : "beginner",
+    "module_number" : 123,
+    "certification" : "paid"
+  },
+  {
+    "id" :  54,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Bodyguarding, Close or Executive Protection (CP/EP)",
+    "link" : "https://www.udemy.com/course/bodyguarding-close-or-executive-protection-cpep/",
+    "difficulty" : "beginner",
+    "module_number" : 108,
+    "certification" : "paid"
+  }
+  {
+    "id" :  55,
     "platform" : "Udemy",
     "free_course" : "no",
     "course_name" : "MongoDB - The Complete Developer's Guide 2023",
@@ -509,7 +549,7 @@
     "certification" : "paid"
   },
   {
-    "id" :  52,
+    "id" :  56,
     "platform" : "Udemy",
     "free_course" : "no",
     "course_name" : "MongoDB Database Developer Course In Python",
