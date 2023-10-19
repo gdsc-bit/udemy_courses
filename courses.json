@@ -696,6 +696,16 @@
     "difficulty" : "beginner",
     "module_number" : 150,
     "certification" : "paid"
+  },
+  {
+    "id" :  71,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Ultimate Redux Course 2023 - [LATEST Redux-toolkit]",
+    "link" : "https://www.udemy.com/course/the-ultimate-redux-course-state-management-library/",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "paid"
   }
   
 ]
