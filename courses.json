@@ -676,6 +676,16 @@
     "difficulty" : "beginner",
     "module_number" : 90,
     "certification" : "paid"
+  },
+  {
+    "id" :  69,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Full Stack Web App in a Weekend",
+    "link" : "https://www.udemy.com/course/full-stack-crash-course/",
+    "difficulty" : "beginner",
+    "module_number" : 71,
+    "certification" : "paid"
   }
   
 ]
