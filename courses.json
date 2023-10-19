@@ -657,7 +657,7 @@
     "module_number" : 46,
     "certification" : "paid"
   },
-{
+  {
     "id" :  67,
     "platform" : "Udemy",
     "free_course" : "no",
@@ -666,5 +666,16 @@
     "difficulty" : "beginner",
     "module_number" : 48,
     "certification" : "paid"
+  },
+  {
+    "id" :  68,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Adobe Photoshop",
+    "link" : "https://www.udemy.com/course/adobe-photoshop-cc-for-complete-beginner-sinhala-medium/",
+    "difficulty" : "beginner",
+    "module_number" : 90,
+    "certification" : "paid"
   }
+  
 ]
