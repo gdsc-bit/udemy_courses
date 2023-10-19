@@ -41,5 +41,15 @@ You can take the reference from below example and structure your information sim
       "difficulty" : "beginner",
       "module_number" : 7,
       "certification" : "paid"
+    },
+    {
+      "id" :  3,
+      "platform" : "Udemy",
+      "free_course" : "No",
+      "course_name" : "Full Stack Web Development",
+      "link" : "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+      "difficulty" : "beginner",
+      "module_number" : 7,
+      "certification" : "paid"
     }
   ]
