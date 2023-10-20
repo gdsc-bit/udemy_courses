@@ -696,6 +696,14 @@
     "difficulty" : "beginner",
     "module_number" : 150,
     "certification" : "paid"
-  }
-  
-]
+  },
+  {
+    "id" :  71,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "MTA: Networking Fundamentals - Exam: Microsoft 98-366",
+    "link" : "https://www.udemy.com/course/mta-networking-fundamentals-exam-microsoft-98-366/",
+    "difficulty" : "beginner",
+    "module_number" : 98,
+    "certification" : "paid"
+  },
