@@ -577,7 +577,7 @@
     "module_number" : 305,
     "certification" : "paid"
   },
-  {
+   {
     "id" :  59,
     "platform" : "Udemy",
     "free_course" : "no",
@@ -585,6 +585,16 @@
     "link" : "https://www.udemy.com/course/the-complete-sql-bootcamp/",
     "difficulty" : "beginner",
     "module_number" : 83,
+    "certification" : "paid"
+  },
+   {
+    "id" :  60,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Linux Command Line Bootcamp",
+    "link" : "https://www.udemy.com/course/the-linux-command-line-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 166,
     "certification" : "paid"
   }
 ]
