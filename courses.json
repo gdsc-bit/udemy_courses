@@ -696,6 +696,17 @@
     "difficulty" : "beginner",
     "module_number" : 150,
     "certification" : "paid"
+  },
+  {
+    "id" :  71,
+    "platform" : "Udemy",
+    "free_course" : "yes",
+    "course_name" : "Java Tutorial for Complete Beginners",
+    "link" : "https://www.udemy.com/course/java-tutorial/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-7QNWCdjebxc2sdZhIDWb8w&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads",
+    "difficulty" : "beginner",
+    "module_number" : 73,
+    "certification" : "paid"
   }
+  
   
 ]
