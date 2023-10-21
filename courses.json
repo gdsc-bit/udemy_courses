@@ -696,6 +696,16 @@
     "difficulty" : "beginner",
     "module_number" : 150,
     "certification" : "paid"
+  },
+  {
+    "id" :  71,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Flutter & Dart - The Complete Guide [2023 Edition]",
+    "link" : "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
+    "difficulty" : "beginner",
+    "module_number" : 152,
+    "certification" : "paid"
   }
   
 ]
