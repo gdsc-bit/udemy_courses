@@ -706,5 +706,15 @@
     "difficulty" : "beginner",
     "module_number" : 150,
     "certification" : "paid"
+  },
+  {
+    "id" :  72,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]",
+    "link" : "https://www.udemy.com/course/machinelearning/",
+    "difficulty" : "beginner",
+    "module_number" : 156,
+    "certification" : "paid"
   }
 ]
