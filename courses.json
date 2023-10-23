@@ -587,9 +587,108 @@
     "module_number" : 83,
     "certification" : "paid"
   },
-
 {
-    "id" :  60,
+    "id" :  61,
+    "platform" : "brave",
+    "free_course" : "yes",
+    "course_name" : "postman",
+    "link" : "https://www.postman.com/downloads/postman-agent/",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "free"
+  }
+  {
+    "id" :  62,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Complete Python Bootcamp From Zero to Hero in Python",
+    "link" : "https://www.udemy.com/course/complete-python-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 15,
+    "certification" : "paid"
+  }
+  {
+    "id" :  63,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Java Web Services",
+    "link" : "https://www.udemy.com/course/java-web-services/",
+    "difficulty" : "beginner",
+    "module_number" : 336,
+    "certification" : "paid"
+  }
+  {
+    "id" :  64,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Science of Leadership",
+    "link" : "https://www.udemy.com/course/neuromanagement/",
+    "difficulty" : "beginner",
+    "module_number" : 35,
+    "certification" : "paid"
+  },
+  {
+    "id" :  65,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Crash Course Electronics and PCB Design",
+    "link" : "https://www.udemy.com/course/crash-course-electronics-and-pcb-design/",
+    "difficulty" : "beginner",
+    "module_number" : 159,
+    "certification" : "paid"
+  },
+  {
+    "id" :  66,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Statistics with R - Beginner Level",
+    "link" : "https://www.udemy.com/course/statistics-with-r-beginner-level/",
+    "difficulty" : "beginner",
+    "module_number" : 46,
+    "certification" : "paid"
+  },
+  {
+    "id" :  67,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Statistics with R - Beginner Level",
+    "link" : "https://www.udemy.com/course/statistics-with-r-beginner-level/",
+    "difficulty" : "beginner",
+    "module_number" : 48,
+    "certification" : "paid"
+  },
+  {
+    "id" :  68,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Adobe Photoshop",
+    "link" : "https://www.udemy.com/course/adobe-photoshop-cc-for-complete-beginner-sinhala-medium/",
+    "difficulty" : "beginner",
+    "module_number" : 90,
+    "certification" : "paid"
+  },
+  {
+    "id" :  69,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Full Stack Web App in a Weekend",
+    "link" : "https://www.udemy.com/course/full-stack-crash-course/",
+    "difficulty" : "beginner",
+    "module_number" : 71,
+    "certification" : "paid"
+  },
+  {
+    "id" :  70,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Webdev - Criando aplicações para Web",
+    "link" : "https://www.udemy.com/course/webdev-criando-aplicacoes-para-web/",
+    "difficulty" : "beginner",
+    "module_number" : 150,
+    "certification" : "paid"
+  },
+{
+    "id" :  71,
     "platform" : "Udemy",
     "free_course" : "no",
     "course_name" : "From A Non Programmer To Full Stack .NET Developer",
@@ -598,4 +697,5 @@
     "module_number" : 46,
     "certification" : "paid"
   },
+  
 ]
