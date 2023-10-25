@@ -701,6 +701,76 @@
     "id" :  71,
     "platform" : "Udemy",
     "free_course" : "no",
+    "course_name" : "Automate the Boring Stuff with Python Programming",
+    "link" : "https://www.udemy.com/course/automate/",
+    "difficulty" : "beginner",
+    "module_number" : 150,
+    "certification" : "paid"
+  },
+  {
+    "id" :  72,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Adobe Photoshop",
+    "link" : "https://www.udemy.com/course/adobe-photoshop-cc-for-complete-beginner-sinhala-medium/",
+    "difficulty" : "beginner",
+    "module_number" : 90,
+    "certification" : "paid"
+  },
+  {
+    "id" :  73,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Machine Learning A-Z™: AI, Python & R + ChatGPT Bonus [2023]",
+    "link" : "https://www.udemy.com/course/machinelearning/",
+    "difficulty" : "beginner",
+    "module_number" : 156,
+    "certification" : "paid"
+  },
+  {
+    "id" :  74,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "CompTIA A+ Core 1 (220-1101) Complete Course & Practice Exam",
+    "link" : "https://www.udemy.com/course/comptia-a-core-1/",
+    "difficulty" : "beginner",
+    "module_number" : 27,
+    "certification" : "paid"
+  },
+  {
+    "id" :  75,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Blender Environment Artist: Create 3D Worlds",
+    "link" : "https://www.udemy.com/course/blenderenvironment/",
+    "difficulty" : "beginner",
+    "module_number" : 12,
+    "certification" : "paid"
+  },
+  {
+    "id" :  76,
+    "platform" : "Udemy",
+    "free_course" : "yes",
+    "course_name" : "Java Tutorial for Complete Beginners",
+    "link" : "https://www.udemy.com/course/java-tutorial/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-7QNWCdjebxc2sdZhIDWb8w&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads",
+    "difficulty" : "beginner",
+    "module_number" : 73,
+    "certification" : "paid"
+  },
+  {
+    "id" :  77,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Flutter & Dart - The Complete Guide [2023 Edition]",
+    "link" : "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
+    "difficulty" : "beginner",
+    "module_number" : 152,
+    "certification" : "paid"
+  },
+  {
+    "id" :  78,
+    "platform" : "Udemy",
+    "free_course" : "no",
     "course_name" : "MTA: Networking Fundamentals - Exam: Microsoft 98-366",
     "link" : "https://www.udemy.com/course/mta-networking-fundamentals-exam-microsoft-98-366/",
     "difficulty" : "beginner",
