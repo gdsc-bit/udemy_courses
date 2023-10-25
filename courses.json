@@ -776,6 +776,16 @@
     "difficulty" : "beginner",
     "module_number" : 98,
     "certification" : "paid"
+  },
+  {
+    "id" :  79,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "*UPDATED* Web Development Secrets 2023 - CRP, HTTP, AJAX ETC",
+    "link" : "https://www.udemy.com/course/new-web-development-secrets/?kw=aj&src=sac",
+    "difficulty" : "beginner",
+    "module_number" : 8,
+    "certification" : "paid"
   }
   
   
