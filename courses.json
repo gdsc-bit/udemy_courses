@@ -816,6 +816,16 @@
     "difficulty" : "beginner",
     "module_number" : 7,
     "certification" : "paid"
+  },
+  {
+    "id" :  83,
+    "platform" : "Udemy",
+    "free_course" : "yes",
+    "course_name" : "Microsoft Excel - Excel from Beginner to Advanced",
+    "link" : "Microsoft Excel - Excel from Beginner to Advanced",
+    "difficulty" : "beginner",
+    "module_number" : 17,
+    "certification" : "paid"
   }
 ]
   
