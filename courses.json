@@ -846,6 +846,16 @@
     "difficulty" : "beginner",
     "module_number" : 19,
     "certification" : "paid"
+  },
+  {
+    "id" :  86,
+    "platform" : "Udemy",
+    "free_course" : "yes",
+    "course_name" : "Trigonometry - The Unit Circle, Angles, & Right Triangles",
+    "link" : "https://www.udemy.com/course/trigonometry-the-unit-circle-angles-right-triangles/",
+    "difficulty" : "beginner",
+    "module_number" : 12,
+    "certification" : "paid"
   }
 ]
   
