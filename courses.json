@@ -817,44 +817,14 @@
     "module_number" : 7,
     "certification" : "paid"
   },
-  {
+   {
     "id" :  83,
     "platform" : "Udemy",
     "free_course" : "yes",
-    "course_name" : "Microsoft Excel - Excel from Beginner to Advanced",
-    "link" : "Microsoft Excel - Excel from Beginner to Advanced",
+    "course_name" : "Ethical Hacking - SQL Injection Attack",
+    "link" : "https://www.udemy.com/course/sql-injection-ethical-hacking/",
     "difficulty" : "beginner",
-    "module_number" : 17,
-    "certification" : "paid"
-  },
-  {
-    "id" :  84,
-    "platform" : "Udemy",
-    "free_course" : "yes",
-    "course_name" : "Master Microsoft Word Beginner to Advanced",
-    "link" : "https://www.udemy.com/course/microsoft-word-from-beginner-to-advanced-and-beyond/",
-    "difficulty" : "beginner",
-    "module_number" : 19,
-    "certification" : "paid"
-  },
-  {
-    "id" :  85,
-    "platform" : "Udemy",
-    "free_course" : "yes",
-    "course_name" : "Powerpoint 2016 2019 365 - Master powerpoint presentation",
-    "link" : "https://www.udemy.com/course/case-study-powerpoint-2013-presentation-slide-by-slide/",
-    "difficulty" : "beginner",
-    "module_number" : 19,
-    "certification" : "paid"
-  },
-  {
-    "id" :  86,
-    "platform" : "Udemy",
-    "free_course" : "yes",
-    "course_name" : "Trigonometry - The Unit Circle, Angles, & Right Triangles",
-    "link" : "https://www.udemy.com/course/trigonometry-the-unit-circle-angles-right-triangles/",
-    "difficulty" : "beginner",
-    "module_number" : 12,
+    "module_number" : 6,
     "certification" : "paid"
   }
 ]
