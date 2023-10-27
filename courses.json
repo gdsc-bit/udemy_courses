@@ -856,6 +856,36 @@
     "difficulty" : "beginner",
     "module_number" : 12,
     "certification" : "paid"
+  },
+  {
+    "id" :  87,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Ultimate DevOps Bootcamp - 2023",
+    "link" : "https://www.udemy.com/course/the-complete-devops-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 46,
+    "certification" : "paid"
+  },
+  {
+    "id" :  88,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps",
+    "link" : "https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/",
+    "difficulty" : "beginner",
+    "module_number" : 19,
+    "certification" : "paid"
+  },
+  {
+    "id" :  89,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "DevOps Beginners to Advanced with Projects - 2023",
+    "link" : "https://www.udemy.com/course/decodingdevops/",
+    "difficulty" : "beginner",
+    "module_number" : 28,
+    "certification" : "paid"
   }
 ]
   
