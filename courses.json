@@ -697,5 +697,15 @@
     "module_number" : 150,
     "certification" : "paid"
   }
-  
+  {
+    "id" :  70,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Webdev - Criando aplicações para Web",
+    "link" : "https://www.udemy.com/course/webdev-criando-aplicacoes-para-web/",
+    "difficulty" : "beginner",
+    "module_number" : 150,
+    "certification" : "paid"
+  }
+   
 ]
