@@ -10,6 +10,16 @@
     "certification" : "free"
   },
   {
+    "id" :  87,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Become a Certified Web Developer: HTML, CSS and JavaScript",
+    "link" : "https://www.udemy.com/course/become-a-certified-web-developer/",
+    "difficulty" : "beginner",
+    "module_number" : 99,
+    "certification" : "free"
+  },
+  {
     "id" :  2,
     "platform" : "Udemy",
     "free_course" : "yes",
