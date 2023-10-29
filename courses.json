@@ -918,7 +918,17 @@
     "certification" : "paid"
   },
   {
-    "id" :  91,
+    "id" :  92,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Blockchain and Bitcoin Fundamentals",
+    "link" : "https://www.udemy.com/course/blockchain-and-bitcoin-fundamentals/",
+    "difficulty" : "beginner",
+    "module_number" : 42,
+    "certification" : "paid"
+  },
+  {
+    "id" : 93,
     "platform" : "Udemy",
     "free_course" : "yes",
     "course_name" : "Python for Data Science and Machine Learning Bootcamp",
@@ -926,9 +936,9 @@
     "difficulty" : "intermediate",
     "module_number" : 105,
     "certification" : "paid"
-  }
+  },
   {
-   "id" : 92,
+   "id" : 94,
    "platform" : "Udemy",
    "free_course" : "no",
    "course_name" : "Microsoft Azure - Beginner's Guide + AZ-900 - 2023",
