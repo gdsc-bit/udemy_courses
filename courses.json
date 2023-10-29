@@ -947,6 +947,16 @@
    "module_number" : "11",
    "certification" : "paid"
   }
+  {
+   "id" : 76,
+   "platform" : "Udemy",
+   "free_course" : "no",
+   "course_name" : "Learn C# Programming",
+   "link" : "https://www.udemy.com/course/learn-c-sharp-programming-in-ten-easy-steps/",
+   "difficuly" : "beginner",
+   "module_number" : "88",
+   "certification" : "paid"
+  }
   
 ]
 
