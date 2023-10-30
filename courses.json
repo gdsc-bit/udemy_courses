@@ -1006,6 +1006,16 @@
     "difficulty" : "God Level", 
     "module_number" : 69,
     "certification" : "paid"
+  },
+  {
+    "id" : 101, 
+    "platform" : "codecademy",
+    "free_course" : "no",
+    "course_name" : "Image Detection and AI",
+    "link" : "https://www.codecademy.com/learn/imageprocai",
+    "difficulty" : "Expert", 
+    "module_number" : 10,
+    "certification" : "paid"
   }
   
   
