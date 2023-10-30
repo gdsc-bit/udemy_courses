@@ -10,16 +10,6 @@
     "certification" : "free"
   },
   {
-    "id" :  98,
-    "platform" : "Udemy",
-    "free_course" : "yes",
-    "course_name" : "Learn C# Programming (In Ten Easy Steps)",
-    "link" : "https://www.udemy.com/course/learn-c-sharp-programming-in-ten-easy-steps/",
-    "difficulty" : "beginner",
-    "module_number" : 75,
-    "certification" : "free"
-  },
-  {
     "id" :  2,
     "platform" : "Udemy",
     "free_course" : "yes",
@@ -947,8 +937,49 @@
    "module_number" : "11",
    "certification" : "paid"
   },
-  {
+   {
+
    "id" : 95,
+   "platform" : "Udemy",
+   "free_course" : "no",
+   "course_name" : "The Complete Python Bootcamp From Zero to Hero in Python",
+   "link" : "https://www.udemy.com/course/complete-python-bootcamp/",
+   "difficuly" : "beginner",
+   "module_number" : "19",
+   "certification" : "paid"
+  },
+   {
+    "id" :  96,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "2D game development with Unity Engine ",
+    "link" : "https://www.udemy.com/course/unitycourse/",
+    "difficulty" : "beginner",
+    "module_number" : 11,
+    "certification" : "paid"
+  },
+  {
+   "id" : 97,
+   "platform" : "Udemy",
+   "free_course" : "no",
+   "course_name" : "The Complete JavaScript Course 2023: From Zero to Expert!",
+   "link" : "https://www.udemy.com/course/the-complete-javascript-course/",
+   "difficuly" : "beginner",
+   "module_number" : "15",
+   "certification" : "paid"
+  }
+  {
+   "id" : 98,
+   "platform" : "Udemy",
+   "free_course" : "no",
+   "course_name" : "Build Responsive Real-World Websites with HTML and CSS",
+   "link" : "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+   "difficuly" : "beginner",
+   "module_number" : "10",
+   "certification" : "paid"
+  },
+  {
+   "id" : 99,
    "platform" : "Udemy",
    "free_course" : "yes",
    "course_name" : "Git & GitHub Crash Course: Create a Repository From ",
