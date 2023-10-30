@@ -997,6 +997,16 @@
    "module_number" : "12",
    "certification" : "free"
   },
+  {
+    "id" : 30, 
+    "platform" : "codecademy",
+    "free_course" : "no",
+    "course_name" : "Machine Learning and Robotics",
+    "link" : "https://www.codecademy.com/learn/aintroandrobotics",
+    "difficulty" : "God Level", 
+    "module_number" : 69,
+    "certification" : "paid"
+  }
   
   
 ]
