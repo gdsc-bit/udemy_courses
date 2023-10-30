@@ -938,6 +938,7 @@
    "certification" : "paid"
   },
   {
+
    "id" : 95,
    "platform" : "Udemy",
    "free_course" : "no",
@@ -956,6 +957,26 @@
     "difficulty" : "beginner",
     "module_number" : 11,
     "certification" : "paid"
+  },
+  {
+   "id" : 97,
+   "platform" : "Udemy",
+   "free_course" : "no",
+   "course_name" : "The Complete JavaScript Course 2023: From Zero to Expert!",
+   "link" : "https://www.udemy.com/course/the-complete-javascript-course/",
+   "difficuly" : "beginner",
+   "module_number" : "15",
+   "certification" : "paid"
+  }
+  {
+   "id" : 98,
+   "platform" : "Udemy",
+   "free_course" : "no",
+   "course_name" : "Build Responsive Real-World Websites with HTML and CSS",
+   "link" : "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+   "difficuly" : "beginner",
+   "module_number" : "10",
+   "certification" : "paid"
   }
   
   
