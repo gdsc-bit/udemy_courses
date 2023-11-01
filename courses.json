@@ -1037,8 +1037,16 @@
     "difficulty" : "High", 
     "module_number" : 17,
     "certification" : "paid"
+  },
+  {
+    "id" : 102, 
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Modern Angular",
+    "link" : "https://www.udemy.com/course/the-modern-angular/",
+    "difficulty" : "High", 
+    "module_number" : 117,
+    "certification" : "paid"
   }
-  
-  
 ]
 
