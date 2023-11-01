@@ -143,10 +143,31 @@
     "id" :  15,
     "platform" : "Udemy",
     "free_course" : "no",
-    "course_name" : "Java Programming Masterclass updated to Java 17",
-    "link" : "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+
+    "course_name" : "Java Develepment",
+    "link" : "https://www.udemy.com/course/react-tutorial-and-projects-course/",
     "difficulty" : "beginner",
-    "module_number" : 46,
+    "module_number" : 774 ,
+    "certification" : "paid"
+  },
+  {
+    "id" :  16,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "Angular - The Complete Guide (2023 Edition)",
+    "link" : https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+    "difficulty" : "beginner",
+    "module_number" : 47 ,
+    "certification" : "paid"
+  },
+   {
+    "id" :  17,
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Modern Angular Bootcamp",
+    "link" : "https://www.udemy.com/course/the-modern-angular-bootcamp/",
+    "difficulty" : "beginner",
+    "module_number" : 15  ,
     "certification" : "paid"
   },
   {
@@ -1007,19 +1028,26 @@
     "module_number" : 69,
     "certification" : "paid"
   },
-
+\
   {
-    "id":101,
-    "platform":"Udemy",
-    "free_course":"no",
-    "course_name":"The Complete Python Bootcamp from Zero to Hero in Python",
-    "link":"https://www.udemy.com/course/complete-python-bootcamp/",
-    "difficulty":"beginner",
-    "module_number":23,
-    "cerification":"paid"
+    "id" : 101, 
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Modern Angular Bootcamp",
+    "link" : "https://www.udemy.com/course/the-modern-angular-bootcamp/",
+    "difficulty" : "High", 
+    "module_number" : 17,
+    "certification" : "paid"
+  },
+  {
+    "id" : 102, 
+    "platform" : "Udemy",
+    "free_course" : "no",
+    "course_name" : "The Modern Angular",
+    "link" : "https://www.udemy.com/course/the-modern-angular/",
+    "difficulty" : "High", 
+    "module_number" : 117,
+    "certification" : "paid"
   }
-    
-  
-  
 ]
 
